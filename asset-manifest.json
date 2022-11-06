@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/catfriends/static/css/main.cb5b0970.css",
+    "main.js": "/catfriends/static/js/main.9eee1570.js",
+    "static/js/787.23e3530d.chunk.js": "/catfriends/static/js/787.23e3530d.chunk.js",
+    "static/media/SEGA.woff": "/catfriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/catfriends/index.html",
+    "main.cb5b0970.css.map": "/catfriends/static/css/main.cb5b0970.css.map",
+    "main.9eee1570.js.map": "/catfriends/static/js/main.9eee1570.js.map",
+    "787.23e3530d.chunk.js.map": "/catfriends/static/js/787.23e3530d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb5b0970.css",
+    "static/js/main.9eee1570.js"
+  ]
+}
